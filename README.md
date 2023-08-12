@@ -8,9 +8,14 @@ An OOP remake of the classic snake game using Pygame.
 
 # Boot the game
 
+## Istallation and set up
+
+Git and Python (version can be modified in Pipfile) installation is assumed.
+
 There are only two dependencies - Pygame and Numpy - which you can install directly assuming you have Pipenv on your system by running:
 
 ```
+pip install pipenv
 pipenv install
 ```
 
